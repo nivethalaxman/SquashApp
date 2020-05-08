@@ -1,0 +1,2 @@
+# SquashApp
+personal details
